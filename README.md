@@ -4,17 +4,13 @@ Markdown 转精美图片的命令行工具，支持多种主题和尺寸。
 
 ## 效果预览
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/qiulanzhu/pm2png/refs/heads/main/examples/preview-note.png" width="280" alt="便签主题" />
-  <img src="https://raw.githubusercontent.com/qiulanzhu/pm2png/refs/heads/main/examples/preview-dark.png" width="280" alt="暗黑主题" />
-  <img src="https://raw.githubusercontent.com/qiulanzhu/pm2png/refs/heads/main/examples/preview-sakura.png" width="280" alt="樱花主题" />
-</p>
-
-<p align="center">
-  <b>便签 (note)</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <b>暗黑 (dark)</b> &nbsp;&nbsp;&nbsp;&nbsp;
-  <b>樱花 (sakura)</b>
-</p>
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/qiulanzhu/pm2png/refs/heads/main/examples/preview-note.png" width="260" alt="便签主题" /><br/><b>便签 (note)</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/qiulanzhu/pm2png/refs/heads/main/examples/preview-dark.png" width="260" alt="暗黑主题" /><br/><b>暗黑 (dark)</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/qiulanzhu/pm2png/refs/heads/main/examples/preview-sakura.png" width="260" alt="樱花主题" /><br/><b>樱花 (sakura)</b></td>
+  </tr>
+</table>
 
 ## 安装
 

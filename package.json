@@ -1,6 +1,6 @@
 {
   "name": "md2png-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Markdown 转精美图片的命令行工具，支持多种主题和尺寸",
   "main": "index.js",
   "bin": {
