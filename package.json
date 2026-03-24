@@ -1,0 +1,44 @@
+{
+  "name": "md2png-cli",
+  "version": "1.0.0",
+  "description": "Markdown 转精美图片的命令行工具，支持多种主题和尺寸",
+  "main": "index.js",
+  "bin": {
+    "md2png": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "LICENSE",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "markdown",
+    "png",
+    "image",
+    "screenshot",
+    "cli",
+    "md2png",
+    "markdown-to-image",
+    "markdown-to-png"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "homepage": "",
+  "bugs": {
+    "url": ""
+  },
+  "dependencies": {
+    "marked": "^17.0.1",
+    "puppeteer": "^24.35.0"
+  }
+}
