@@ -2,6 +2,20 @@
 
 Markdown 转精美图片的命令行工具，支持多种主题和尺寸。
 
+## 效果预览
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/qiulanzhu/pm2png/main/examples/preview-note.png" width="280" alt="便签主题" />
+  <img src="https://raw.githubusercontent.com/qiulanzhu/pm2png/main/examples/preview-dark.png" width="280" alt="暗黑主题" />
+  <img src="https://raw.githubusercontent.com/qiulanzhu/pm2png/main/examples/preview-sakura.png" width="280" alt="樱花主题" />
+</p>
+
+<p align="center">
+  <b>便签 (note)</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>暗黑 (dark)</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>樱花 (sakura)</b>
+</p>
+
 ## 安装
 
 ```bash
@@ -56,6 +70,10 @@ md2png ./doc.md -t sakura -s mobile -o beautiful.png
 | `tablet` | 28rem | 平板端 |
 | `laptop` | 50rem | 电脑端 |
 | `desktop` | 60rem | 超级屏 |
+
+## 致谢
+
+本项目基于 [markdown2png](https://github.com/nicejade/markdown2png) 修改而来。
 
 ## 依赖
 
