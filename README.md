@@ -5,9 +5,9 @@ Markdown 转精美图片的命令行工具，支持多种主题和尺寸。
 ## 效果预览
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/qiulanzhu/pm2png/main/examples/preview-note.png" width="280" alt="便签主题" />
-  <img src="https://raw.githubusercontent.com/qiulanzhu/pm2png/main/examples/preview-dark.png" width="280" alt="暗黑主题" />
-  <img src="https://raw.githubusercontent.com/qiulanzhu/pm2png/main/examples/preview-sakura.png" width="280" alt="樱花主题" />
+  <img src="https://raw.githubusercontent.com/qiulanzhu/pm2png/refs/heads/main/examples/preview-note.png" width="280" alt="便签主题" />
+  <img src="https://raw.githubusercontent.com/qiulanzhu/pm2png/refs/heads/main/examples/preview-dark.png" width="280" alt="暗黑主题" />
+  <img src="https://raw.githubusercontent.com/qiulanzhu/pm2png/refs/heads/main/examples/preview-sakura.png" width="280" alt="樱花主题" />
 </p>
 
 <p align="center">
